@@ -97,6 +97,7 @@ span:hover {
   position: absolute;
   z-index: 1;
   width: 40px;
+  cursor: pointer;
 }
 
 .eth {
